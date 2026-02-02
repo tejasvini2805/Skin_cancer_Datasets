@@ -1,0 +1,1 @@
+model_mobilenet: 16.81%
